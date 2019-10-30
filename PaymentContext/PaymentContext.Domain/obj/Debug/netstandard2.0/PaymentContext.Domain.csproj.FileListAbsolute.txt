@@ -1,0 +1,12 @@
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.deps.json
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.dll
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csprojAssemblyReference.cache
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfo.cs
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.dll
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CopyComplete

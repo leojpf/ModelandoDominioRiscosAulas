@@ -1,0 +1,9 @@
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/leonardo/Área de Trabalho/Estudos/CSharp/balta.io/Modelando_Dominios_Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
