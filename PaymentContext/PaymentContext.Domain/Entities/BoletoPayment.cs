@@ -1,4 +1,5 @@
 using System;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Domain.Entities
 {
@@ -9,10 +10,10 @@ namespace PaymentContext.Domain.Entities
                              DateTime exipreDate,
                              decimal total,
                              decimal totalPaid,
-                             string document,
+                             Document document,
                              string owner,
-                             string address,
-                             string email)
+                             Address address,
+                             Email email)
                              :base(paidDate,
                                    exipreDate,
                                    total,
