@@ -23,6 +23,7 @@ namespace PaymentContext.Domain.Entities
                                    address,
                                    email)
         {
+            
             LastTrasnsactionCode = lastTrasnsactionCode;
         }
 

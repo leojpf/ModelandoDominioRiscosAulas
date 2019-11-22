@@ -7,7 +7,7 @@ namespace PaymenteConext.Tests
     [TestClass]
     public class StudentTests
     {
-        [TestMethod]
+        //[TestMethod]
         public void AdicionarAssinatura()
         {
             var name = new Name("Teste","TEste");
