@@ -14,7 +14,8 @@ namespace PaymentContext.Domain.Entities
             Document = document;
             Email = email;
             Address = address;
-            _subscriptions = new List<Subscription>();
+            _subscriptions = new List<Subscription>();  
+            AddNotifications(name, document,email);
         }
 
         public Name Name { get; private set; }
