@@ -7,7 +7,6 @@ namespace PaymentContext.Tests.ValueObjects
     [TestClass]
     public class DocumentTests
     {
-
         //Red, Green, Refactor metodo de testes
         [TestMethod]
         public void ErrorWhenCNPJIsInvalid()
