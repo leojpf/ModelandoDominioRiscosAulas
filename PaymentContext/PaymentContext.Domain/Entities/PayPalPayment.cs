@@ -5,7 +5,7 @@ namespace PaymentContext.Domain.Entities
 {
     public class PayPalPayment : Payment
     {
-        public PayPalPayment(string lastTrasnsactionCode,
+        public PayPalPayment(string trasnsactionCode,
                              DateTime paidDate,
                              DateTime exipreDate,
                              decimal total,
@@ -14,7 +14,7 @@ namespace PaymentContext.Domain.Entities
                              string owner,
                              Address address,
                              Email email)
-                             :base(paidDate,
+                             : base(paidDate,
                                    exipreDate,
                                    total,
                                    totalPaid,
@@ -23,10 +23,10 @@ namespace PaymentContext.Domain.Entities
                                    address,
                                    email)
         {
-            
-            LastTrasnsactionCode = lastTrasnsactionCode;
+
+            TrasnsactionCode = trasnsactionCode;
         }
 
-        public string LastTrasnsactionCode { get; private set; }
+        public string TrasnsactionCode { get; private set; }
     }
 }
